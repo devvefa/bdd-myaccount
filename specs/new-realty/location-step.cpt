@@ -1,0 +1,33 @@
+Created by vkaraahmet on 31.01.2022
+
+This is a concept file with following syntax for each concept.
+
+# first step
+
+* click on created xpath that start with "//li/a[contains(text(),'" contain "Konut" end with"')]"
+* click on created xpath that start with "//li/a[contains(text(),'" contain "Daire" end with"')]"
+* click on created xpath that start with "//li/a[contains(text(),'" contain "Satılık" end with"')]"
+
+#  location step
+
+* Check if element "map" exists
+* click on created xpath that start with "//select[option[text()='İl Seçiniz...']]" contain "" end with""
+* scroll to click on created xpath that start with "//option[contains(text(),'" contain "İstanbul" end with"')]"
+* click on created xpath that start with "//select[option[text()='İlçe Seçiniz...']]" contain "" end with""
+
+* scroll to click on created xpath that start with "//select[option[text()='İlçe Seçiniz...']]/option[contains(text(),'" contain "Beşiktaş" end with"')]"
+* click on created xpath that start with "//select[option[text()='Mahalle Seçiniz...']]" contain "" end with""
+* scroll to click on created xpath that start with "//option[contains(text(),'" contain "Balmumcu" end with"')]"
+* Wait "6" seconds
+* click on created xpath that start with "//ymaps[@class='ymaps-2-1-79-zoom__plus ymaps-2-1-79-zoom__button ymaps-2-1-79-float-button ymaps-2-1-79-user-selection-none']" contain "" end with""
+* Wait "3" seconds
+* Click to element "pinOnMap"
+* Wait "3" seconds
+* Check if element "marker" exists
+* Wait "3" seconds
+
+
+# uplaod photo th
+* uplaod photo "/0.jpeg"
+* Wait "2" seconds
+* Check if element "waitUntilImageUpload" exists

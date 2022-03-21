@@ -1,0 +1,69 @@
+Created by vkaraahmet on 3.02.2022
+
+This is a concept file with following syntax for each concept.
+# Realty Info
+* write "test İlanı Başlığıdır" in "İlan Başlığı" input field
+* Write value "test İlan Açıklamasıdırdddd" to element "realtyNote"
+
+* write "test İlan Açıklamasıdır" in "İlan Notu" input field
+* write "4444" in "İlan Fiyatı" input field
+
+* click on select input that with "Görüntülü Arama ile Gezilebilir"
+* click on option that "Evet"
+
+* write "3" in "Oda Sayısı" input field
+
+* write "1" in "Salon Sayısı" input field
+* write "1" in "Banyo Sayısı" input field
+* write "111" in "Brüt m" input field
+* write "110" in "Net m" input field
+
+* click on select input that with "Isınma Tipi"
+* click on option that "Merkezi"
+
+* write "1" in "Binanın Yaşı" input field
+
+* click on select input that with "Bulunduğu kat"
+* click on option that "Yarı Bodrum"
+
+* write "1" in "Binadaki Kat Sayısı" input field
+
+* click on select input that with "Krediye Uygun mu"
+* click on option that "Uygun"
+
+* click on select input that with "Konut Şekli"
+* click on option that "Daire"
+
+* click on select input that with "Eşyalı"
+* click on option that "Evet"
+
+* click on select input that with "Yakıt Tipi"
+* click on option that "Doğalgaz"
+
+* click on select input that with "Yapının Durumu"
+* click on option that "İkinci El"
+
+* click on select input that with "Kullanım Durumu"
+* click on option that "Boş"
+
+* write "1" in "Binadaki Kat Sayısı" input field
+
+* write "50" in "Aidat" input field
+
+* click on select input that with "Yetkili Ofis"
+* click on option that "Hayır"
+
+
+* click on select input that with "Takas"
+* click on option that "Yapılır"
+
+
+* click on select input that with "Cephe Seçenekleri"
+* click on option that "Doğu Cephe"
+* click on option that "Batı Cephe"
+
+
+* write "5000" in "Kira Getirisi" input field
+
+
+

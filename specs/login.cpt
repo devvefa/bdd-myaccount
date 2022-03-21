@@ -1,0 +1,7 @@
+Created by vkaraahmet on 27.01.2022
+
+This is a concept file with following syntax for each concept.
+# Login With Test Account
+* Write value "myaccount@yopmail.com" to element "emailInput"
+* Write value "123456" to element "passwordInput"
+* Click to element "loginButton"

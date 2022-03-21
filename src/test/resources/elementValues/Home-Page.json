@@ -1,0 +1,64 @@
+[
+  {
+    "key": "insertRealty",
+    "value": "//a[contains(text(),'İLANI ONAYLA')]",
+    "type": "xpath"
+  },
+  {
+    "key": "map",
+    "value": "//ymaps[@class='ymaps-2-1-79-events-pane ymaps-2-1-79-user-selection-none']",
+    "type": "xpath"
+  },
+  {
+    "key": "succeedInsert",
+    "value": "//div[contains(text(),'Tebrikler, İlanınız Yayınlandı!')]",
+    "type": "xpath"
+  },
+  {
+    "key": "marker",
+    "value": "//ymaps[@class='ymaps-2-1-79-events-pane ymaps-2-1-79-user-selection-none']",
+    "type": "xpath"
+  },
+  {
+    "key": "pinOnMap",
+    "value": "//section[@class='y-map']",
+    "type": "xpath"
+  },
+  {
+    "key": "fileInput",
+    "value": "//input[@class='file-input']",
+    "type": "xpath"
+  },
+  {
+    "key": "nextStepButton",
+    "value": "//a[@class='post-ad-navigation submit-button' and contains(text(),'SONRAKİ ADIM')]",
+    "type": "xpath"
+  },
+  {
+    "key": "realtyNote",
+    "value": "//div[@class='fr-element fr-view']",
+    "type": "xpath"
+  },
+  {
+    "key": "waitUntilImageUpload",
+    "value": "//p[contains(text(),' Fotoğraf Yüklendi')]",
+    "type": "xpath"
+  },
+  {
+    "key": "emailInput",
+    "value": "//input[@placeholder='E-posta Adresiniz']",
+    "type": "xpath"
+  },
+
+  {
+    "key": "passwordInput",
+    "value": "//input[@placeholder='Şifreniz']",
+    "type": "xpath"
+  },
+  {
+    "key": "loginButton",
+    "value": "//button[normalize-space()='Üye Girişi Yap']",
+    "type": "xpath"
+  }
+
+]

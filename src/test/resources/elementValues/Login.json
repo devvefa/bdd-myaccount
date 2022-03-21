@@ -1,0 +1,19 @@
+[
+  {
+    "key": "emailInput",
+    "value": "//input[contains(@placeholder,'E-posta Adresiniz')] ",
+    "type": "xpath"
+  },
+
+  {
+    "key": "passwordInput",
+    "value": "//input[contains(@placeholder,'Şifreniz')]",
+    "type": "xpath"
+  },
+  {
+    "key": "loginButton",
+    "value": "//button[normalize-space()='Üye Girişi Yap']",
+    "type": "xpath"
+  }
+
+]
